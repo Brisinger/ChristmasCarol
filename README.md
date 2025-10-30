@@ -82,7 +82,9 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **Apache 2.0 License with Christmas Cheer** 🎄 - see the [LICENSE](LICENSE) file for the full jolly legal details. In the spirit of the season, we've added some holiday sparkle while keeping all the important legal protections!
+
+**TL;DR:** You're free to use, modify, and distribute this code, but please include the original license and copyright notice. And remember - be nice, it's Christmas! 🎅
 
 ## 🎄 Wishing You a Merry Christmas!
 
