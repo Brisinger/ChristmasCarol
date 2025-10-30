@@ -8,7 +8,7 @@ This Rust program sings the beloved "Twelve Days of Christmas" carol with a prog
 
 ## 🛠️ Tech Stack
 
-- **Language**: Rust 2021 Edition
+- **Language**: Rust 2024 Edition
 - **Build Tool**: Cargo
 - **Dependency Management**: Cargo.toml
 - **Tool Management**: `mise` (for easy setup)
