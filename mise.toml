@@ -1,0 +1,11 @@
+min_version = { soft = "2025.10.18" }
+
+[tools]
+"rust" = { version = "1.85.0", profile = "default" }
+
+[tasks]
+install = "mise install"
+format = "cargo fmt --all"
+check = "cargo check"
+lint = "cargo clippy --all"
+build = "cargo build --release"
